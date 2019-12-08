@@ -1,0 +1,11 @@
+# Spotify API keys
+
+# keys.js
+
+node_modules
+.env
+.DS_Store
+
+
+SPOTIFY_ID=your-spotify-id
+SPOTIFY_SECRET=your-spotify-secret
