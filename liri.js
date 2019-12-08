@@ -69,13 +69,13 @@ function start() {
                     var movieData = response.data;
                     console.log("---------------Data---------------");
                     console.log("Title of the movie is: " + response.data.Title);
-                    console.log("The year the movie came out: " + response.data.Year);
-                    console.log("The movie's rating is: " + response.data.imdbRating);
-                    console.log("The movie's Rotten Tomatoe rating is: " + response.data.Ratings[1].Value);
-                    console.log("The movie's was produced in: " + response.data.Country);
-                    console.log("The movie's language is: " + response.data.Language);
-                    console.log("The plot of the movie is: " + response.data.Plot);
-                    console.log("The movie's actors are: " + response.data.Actors);
+                    console.log("\nThe year the movie came out: " + response.data.Year);
+                    console.log("\nThe movie's rating is: " + response.data.imdbRating);
+                    console.log("\nThe movie's Rotten Tomatoe rating is: " + response.data.Ratings[1].Value);
+                    console.log("\nThe movie's was produced in: " + response.data.Country);
+                    console.log("\nThe movie's language is: " + response.data.Language);
+                    console.log("\nThe plot of the movie is: " + response.data.Plot);
+                    console.log("\nThe movie's actors are: " + response.data.Actors);
                     console.log("---------------Data---------------");
 
                     fs.appendFile("log.txt", movieData, function (err) {

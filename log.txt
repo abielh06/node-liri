@@ -1,11 +1,4 @@
-Artist:   Santana
-               
-Venue: House of Blues Las Vegas presented by Cricket Wireless
-               
-Location:  Las Vegas  NV
-               
-Date: 01/24/2020 07:00 pm
--------------------------------------Artist:   Santana
+[object Object][object Object][object Object][object Object]Artist:   Santana
                
 Venue: House of Blues Las Vegas presented by Cricket Wireless
                
@@ -18,14 +11,7 @@ Venue: House of Blues Las Vegas presented by Cricket Wireless
                
 Location:  Las Vegas  NV
                
-Date: 01/28/2020 07:00 pm
--------------------------------------Artist:   Santana
-               
-Venue: House of Blues Las Vegas presented by Cricket Wireless
-               
-Location:  Las Vegas  NV
-               
-Date: 01/29/2020 07:00 pm
+Date: 01/24/2020 07:00 pm
 -------------------------------------Artist:   Santana
                
 Venue: House of Blues Las Vegas presented by Cricket Wireless
@@ -49,18 +35,18 @@ Location:  Casalecchio Di Reno
 Date: 03/14/2020 09:00 pm
 -------------------------------------Artist:   Santana
                
-Venue: Tauron Arena Krakow
-               
-Location:  Kraków  
-               
-Date: 03/17/2020 06:00 pm
--------------------------------------Artist:   Santana
-               
 Venue: Hallenstadion
                
 Location:  Zürich  
                
 Date: 03/15/2020 08:00 pm
+-------------------------------------Artist:   Santana
+               
+Venue: Tauron Arena Krakow
+               
+Location:  Kraków  
+               
+Date: 03/17/2020 06:00 pm
 -------------------------------------Artist:   Santana
                
 Venue: Papp Laszlo Arena
@@ -193,13 +179,6 @@ Venue: House of Blues Las Vegas presented by Cricket Wireless
                
 Location:  Las Vegas  NV
                
-Date: 01/26/2020 07:00 pm
--------------------------------------Artist:   Santana
-               
-Venue: House of Blues Las Vegas presented by Cricket Wireless
-               
-Location:  Las Vegas  NV
-               
 Date: 05/23/2020 07:00 pm
 -------------------------------------Artist:   Santana
                
@@ -208,6 +187,27 @@ Venue: House of Blues Las Vegas presented by Cricket Wireless
 Location:  Las Vegas  NV
                
 Date: 05/24/2020 07:00 pm
+-------------------------------------Artist:   Santana
+               
+Venue: House of Blues Las Vegas presented by Cricket Wireless
+               
+Location:  Las Vegas  NV
+               
+Date: 01/28/2020 07:00 pm
+-------------------------------------Artist:   Santana
+               
+Venue: House of Blues Las Vegas presented by Cricket Wireless
+               
+Location:  Las Vegas  NV
+               
+Date: 01/29/2020 07:00 pm
+-------------------------------------Artist:   Santana
+               
+Venue: House of Blues Las Vegas presented by Cricket Wireless
+               
+Location:  Las Vegas  NV
+               
+Date: 01/26/2020 07:00 pm
 -------------------------------------Artist:   JAY-Z
                    
 Song:   The Blueprint 3
@@ -215,22 +215,6 @@ Song:   The Blueprint 3
 Spotify Link:  https://open.spotify.com/track/6up1XqJ3UkmvkVmtwGLsGg
                    
 Album: Thank You
-----------------------------------
-                   Artist:   JAY-Z
-                   
-Song:   The Blueprint 3
-                   
-Spotify Link:  https://open.spotify.com/track/1O2f70FinoA6CfKCN8i5eY
-                   
-Album: Thank You
-----------------------------------
-                   Artist:   Ariana Grande
-                   
-Song:   thank u, next
-                   
-Spotify Link:  https://open.spotify.com/track/6ocbgoVGwYJhOv1GgI9NsF
-                   
-Album: 7 rings
 ----------------------------------
                    Artist:   Ariana Grande
                    
@@ -344,13 +328,13 @@ Spotify Link:  https://open.spotify.com/track/751gBcu62kORDelX7FV0mM
                    
 Album: Thank You
 ----------------------------------
-                   Artist:   Ariana Grande
+                   Artist:   Meghan Trainor
                    
-Song:   thank u, next
+Song:   Thank You (Deluxe Version)
                    
-Spotify Link:  https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ
+Spotify Link:  https://open.spotify.com/track/3KwwE4sgCzMaKWq6QBebmX
                    
-Album: thank u, next
+Album: Me Too
 ----------------------------------
                    Artist:   John Denver
                    
@@ -360,12 +344,419 @@ Spotify Link:  https://open.spotify.com/track/69HICMmc6nNLucAx3aJX9M
                    
 Album: Thank God I'm a Country Boy
 ----------------------------------
-                   Artist:   Meghan Trainor
+                   Artist:   JAY-Z
                    
-Song:   Thank You (Deluxe Version)
+Song:   The Blueprint 3
                    
-Spotify Link:  https://open.spotify.com/track/3KwwE4sgCzMaKWq6QBebmX
+Spotify Link:  https://open.spotify.com/track/1O2f70FinoA6CfKCN8i5eY
                    
-Album: Me Too
+Album: Thank You
 ----------------------------------
-                   [object Object][object Object]
+                   Artist:   Ariana Grande
+                   
+Song:   thank u, next
+                   
+Spotify Link:  https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ
+                   
+Album: thank u, next
+----------------------------------
+                   Artist:   Ariana Grande
+                   
+Song:   thank u, next
+                   
+Spotify Link:  https://open.spotify.com/track/6ocbgoVGwYJhOv1GgI9NsF
+                   
+Album: 7 rings
+----------------------------------
+                   [object Object][object Object]Artist:   Backstreet Boys
+                   
+Song:   The Hits--Chapter One
+                   
+Spotify Link:  https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+                   
+Album: I Want It That Way
+----------------------------------
+                   Artist:   Backstreet Boys
+                   
+Song:   Millennium
+                   
+Spotify Link:  https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya
+                   
+Album: I Want It That Way
+----------------------------------
+                   Artist:   Mick Jensen
+                   
+Song:   I Want It That Way
+                   
+Spotify Link:  https://open.spotify.com/track/0ympGdYdVlZ8zo6irdjMvd
+                   
+Album: I Want It That Way
+----------------------------------
+                   Artist:   Anthem Lights
+                   
+Song:   Covers Part IV
+                   
+Spotify Link:  https://open.spotify.com/track/3Ww6kEWxLh4Ub4WPJ9hMtA
+                   
+Album: I Want It That Way
+----------------------------------
+                   Artist:   Tyler and Mark
+                   
+Song:   Beautiful Dreams
+                   
+Spotify Link:  https://open.spotify.com/track/5c2CckYG203pzNuwLh5sAI
+                   
+Album: I Want It That Way
+----------------------------------
+                   Artist:   "Weird Al" Yankovic
+                   
+Song:   Poodle Hat
+                   
+Spotify Link:  https://open.spotify.com/track/4vHb50VkxDzHYwLiHfWczK
+                   
+Album: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+----------------------------------
+                   Artist:   Punk Goes
+                   
+Song:   Punk Goes Pop
+                   
+Spotify Link:  https://open.spotify.com/track/0X5ygHsca3pJ3KErPsXhGc
+                   
+Album: I Want It That Way
+----------------------------------
+                   Artist:   Backstreet Boys
+                   
+Song:   I Want It That Way (Reimagined)
+                   
+Spotify Link:  https://open.spotify.com/track/62KnDRUq6CBcT7Bqb9IHKV
+                   
+Album: I Want It That Way - Reimagined
+----------------------------------
+                   Artist:   Jess and Gabriel
+                   
+Song:   Under the Covers, Vol. 3
+                   
+Spotify Link:  https://open.spotify.com/track/52FgeDoHydoWZbFGgxwCdH
+                   
+Album: I Want It That Way
+----------------------------------
+                   Artist:   Steel Panther
+                   
+Song:   I Want It That Way
+                   
+Spotify Link:  https://open.spotify.com/track/0448cNUvZGCAlUpIPO5kdY
+                   
+Album: I Want It That Way
+----------------------------------
+                   Artist:   Various Artists
+                   
+Song:   90 Sweet 90s Hits!
+                   
+Spotify Link:  https://open.spotify.com/track/1zCiqxhampG4dcC7HEqPu5
+                   
+Album: I Want It That Way
+----------------------------------
+                   Artist:   Glee Cast
+                   
+Song:   Bye Bye Bye / I Want It That Way (Glee Cast Version)
+                   
+Spotify Link:  https://open.spotify.com/track/3t7m7AzV2ntuI9fIT6KREP
+                   
+Album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+----------------------------------
+                   Artist:   Scary Pockets
+                   
+Song:   Nu Funk
+                   
+Spotify Link:  https://open.spotify.com/track/4IWQXV01Lp0wsXCXo09EBr
+                   
+Album: I Want It That Way
+----------------------------------
+                   Artist:   Manuel Costa
+                   
+Song:   I Want It That Way
+                   
+Spotify Link:  https://open.spotify.com/track/3q8lVRIRS88HAfGRaEY6qD
+                   
+Album: I Want It That Way
+----------------------------------
+                   Artist:   NKOTBSB
+                   
+Song:   NKOTBSB
+                   
+Spotify Link:  https://open.spotify.com/track/2KMwtsWwL5QDtSpm814tju
+                   
+Album: I Want It That Way
+----------------------------------
+                   Artist:   Coffey Anderson
+                   
+Song:   Go Country
+                   
+Spotify Link:  https://open.spotify.com/track/10CgztTS4x8AMuN19NoHlj
+                   
+Album: I Want It That Way
+----------------------------------
+                   Artist:   Original London Cast of & Juliet
+                   
+Song:   & Juliet (Original London Cast Recording)
+                   
+Spotify Link:  https://open.spotify.com/track/63pnehidDfBVrvrNk1MYzD
+                   
+Album: I Want It That Way
+----------------------------------
+                   Artist:   Yshop
+                   
+Song:   I Want It That Way
+                   
+Spotify Link:  https://open.spotify.com/track/0sRt44NXdLVqYeD2TAm1A5
+                   
+Album: I Want It That Way
+----------------------------------
+                   Artist:   Boyce Avenue
+                   
+Song:   Cover Sessions, Vol. 2
+                   
+Spotify Link:  https://open.spotify.com/track/16COzZ7jCVn3O8b8ZgviOx
+                   
+Album: I Want It That Way
+----------------------------------
+                   Artist:   Nineties Legends
+                   
+Song:   Musicbox
+                   
+Spotify Link:  https://open.spotify.com/track/40jPuNkx6EFoRJXWht3NJO
+                   
+Album: I Want It That Way
+----------------------------------
+                   Artist:   Vampire Weekend
+               
+Venue: Lorne Falls Festival
+               
+Location:  Lorne  
+               
+Date: 12/31/2019 12:00 pm
+-------------------------------------Artist:   Vampire Weekend
+               
+Venue: Byron Bay Falls Festival
+               
+Location:  Yelgun  
+               
+Date: 01/02/2020 12:00 pm
+-------------------------------------Artist:   Vampire Weekend
+               
+Venue: Fremantle Falls Festival
+               
+Location:  Fremantle  
+               
+Date: 01/04/2020 12:00 pm
+-------------------------------------Artist:   Vampire Weekend
+               
+Venue: Marion Bay Falls Festival
+               
+Location:  Bream Creek  
+               
+Date: 12/30/2019 12:00 pm
+-------------------------------------Artist:   Vampire Weekend
+               
+Venue: Forum Melbourne
+               
+Location:  Melbourne  
+               
+Date: 01/07/2020 07:00 pm
+-------------------------------------Artist:   Vampire Weekend
+               
+Venue: Enmore Theatre
+               
+Location:  Newtown  
+               
+Date: 01/09/2020 07:00 pm
+-------------------------------------Artist:   Vampire Weekend
+               
+Venue: Okeechobee Music and Arts Festival
+               
+Location:  Okeechobee  FL
+               
+Date: 03/07/2020 12:00 pm
+-------------------------------------Artist:   Vampire Weekend
+               
+Venue: Lollapalooza Chile
+               
+Location:  Santiago  
+               
+Date: 03/27/2020 12:00 pm
+-------------------------------------Artist:   Vampire Weekend
+               
+Venue: Lollapalooza Argentina
+               
+Location:  Martínez  
+               
+Date: 03/28/2020 12:00 pm
+-------------------------------------Artist:   Vampire Weekend
+               
+Venue: Lollapalooza Chile
+               
+Location:  Santiago  
+               
+Date: 03/28/2020 12:00 pm
+-------------------------------------Artist:   Vampire Weekend
+               
+Venue: Lollapalooza Chile
+               
+Location:  Santiago  
+               
+Date: 03/29/2020 12:00 pm
+-------------------------------------Artist:   Vampire Weekend
+               
+Venue: Festival Estereo Picnic
+               
+Location:  Sopó  
+               
+Date: 04/03/2020 12:00 pm
+-------------------------------------Artist:   Vampire Weekend
+               
+Venue: Lollapalooza Brasil
+               
+Location:  São Paulo  
+               
+Date: 04/05/2020 12:00 pm
+-------------------------------------Artist:   Vampire Weekend
+               
+Venue: Midway Lawn
+               
+Location:  Burlington  VT
+               
+Date: 05/28/2020 06:00 pm
+-------------------------------------Artist:   Vampire Weekend
+               
+Venue: Maine Savings Pavilion
+               
+Location:  Westbrook  CT
+               
+Date: 05/29/2020 06:30 pm
+-------------------------------------Artist:   Vampire Weekend
+               
+Venue: Bank of New Hampshire Pavilion
+               
+Location:  Gilford  NH
+               
+Date: 05/31/2020 06:00 pm
+-------------------------------------Artist:   Vampire Weekend
+               
+Venue: Artpark Mainstage Theater
+               
+Location:  Lewiston  NY
+               
+Date: 06/02/2020 06:30 pm
+-------------------------------------Artist:   Vampire Weekend
+               
+Venue: Stage AE
+               
+Location:  Pittsburgh  PA
+               
+Date: 06/03/2020 06:30 pm
+-------------------------------------Artist:   Vampire Weekend
+               
+Venue: The Orange Peel Outdoors
+               
+Location:  Asheville  NC
+               
+Date: 06/12/2020 06:30 pm
+-------------------------------------Artist:   Vampire Weekend
+               
+Venue: FIB Festival international Benicassim
+               
+Location:  Benicassim  
+               
+Date: 07/17/2020 12:00 pm
+-------------------------------------Artist:   Vampire Weekend
+               
+Venue: Les Schwab Amphitheater
+               
+Location:  Bend  OR
+               
+Date: 08/09/2020 06:30 pm
+-------------------------------------Artist:   Vampire Weekend
+               
+Venue: Ford Idaho Center Amphitheater
+               
+Location:  Nampa  ID
+               
+Date: 08/10/2020 06:30 pm
+-------------------------------------Artist:   Vampire Weekend
+               
+Venue: KettleHouse Amphitheater
+               
+Location:  Bonner  MT
+               
+Date: 08/12/2020 06:30 pm
+-------------------------------------Artist:   Vampire Weekend
+               
+Venue: BMO Centre
+               
+Location:  Calgary  
+               
+Date: 08/14/2020 06:30 pm
+-------------------------------------Artist:   Vampire Weekend
+               
+Venue: Edmonton Convention Centre
+               
+Location:  Edmonton  
+               
+Date: 08/15/2020 06:30 pm
+-------------------------------------Artist:   Vampire Weekend
+               
+Venue: Express Live!
+               
+Location:  Columbus  OH
+               
+Date: 09/23/2020 06:30 pm
+-------------------------------------Artist:   Vampire Weekend
+               
+Venue: Michigan Lottery Amphitheatre at Freedom Hill
+               
+Location:  Sterling Heights  MI
+               
+Date: 09/24/2020 06:30 pm
+-------------------------------------Artist:   Vampire Weekend
+               
+Venue: McGrath Amphitheatre
+               
+Location:  Cedar Rapids  IA
+               
+Date: 09/26/2020 06:30 pm
+-------------------------------------Artist:   Vampire Weekend
+               
+Venue: Pinewood Bowl Theater
+               
+Location:  Lincoln  NE
+               
+Date: 09/27/2020 06:30 pm
+-------------------------------------Artist:   Vampire Weekend
+               
+Venue: Starlight Theatre
+               
+Location:  Kansas City  KS
+               
+Date: 09/29/2020 06:30 pm
+-------------------------------------Artist:   Vampire Weekend
+               
+Venue: BOK Center
+               
+Location:  Tulsa  OK
+               
+Date: 09/30/2020 06:30 pm
+-------------------------------------Artist:   Vampire Weekend
+               
+Venue: Saenger Theatre
+               
+Location:  New Orleans  LA
+               
+Date: 10/06/2020 06:30 pm
+-------------------------------------Artist:   Vampire Weekend
+               
+Venue: BJCC Concert Hall
+               
+Location:  Birmingham  AL
+               
+Date: 10/07/2020 06:30 pm
+-------------------------------------[object Object]
